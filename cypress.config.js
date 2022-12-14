@@ -6,9 +6,9 @@ module.exports = defineConfig({
       // implement node event listeners here
     },
     baseUrl: "https://cypress.vivifyscrum-stage.com/",
-   /*  env: {
+    env: {
       userEmail: "viki.verebes90@gmail.com",
-      userPassword: "12341234"
-    } */
+      userPassword: "Marci@90"
+    }
   },
 });
